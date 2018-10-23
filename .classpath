@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/gurobi702/win64/lib/gurobi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/Blas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/colt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/event-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/interpreter-1.6.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/jcommon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/jfreechart-1.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/language-1.6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/logger-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/optimization.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/ssj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/SSJ/lib/tcode.jar"/>
+	<classpathentry kind="lib" path="C:/Users/johnedga/Box Sync/John Fontecha/Backup CMR/Java Libraries/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
